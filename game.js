@@ -1,2 +1,3 @@
 var inquirer = require('inquirer');
-var word = require("./word.js");
+var Word = require("./word.js");
+var words = require("./words.js");
