@@ -1,0 +1,18 @@
+module.exports = [
+	"basketball", 
+	"football",
+	"soccer",
+	"basket",
+	"touchdown",
+	"goal",
+	"tennis",
+	"coach",
+	"helmet",
+	"baseball",
+	"player",
+	"batter",
+	"pitcher",
+	"ace",
+	"strike",
+	"dunk",
+	"ball"];
